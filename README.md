@@ -6,8 +6,8 @@
 </p>
 <br/>
 
-<p>🔭 I’m currently working on Typescript and Javascript librarys</p>
-<p>🌱 I’m currently learning more about React</p>
+<p>🔭 I’m currently working on Java + Spring Boot, AWS, PostgreSQL</p>
+<p>🌱 I’m currently learning more about JDK-21, Clean Code, SOLID, Observability</p>
 <p>📫 How to reach me: cmartins.dev@gmail.com</p>
 <br/>
 
